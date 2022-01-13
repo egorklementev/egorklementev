@@ -1,7 +1,7 @@
 # Hi, I am Egor
 
-## .NET, CI/CD, QA, AWS, Unity3D, libGDX, OpenGL
+## Unity3D, .NET, CI/CD, QA, AWS, libGDX, OpenGL
 
-### I like to build software on C#, Java, and C/C++ 
+### I like to build software (games) on C#, Java, and C/C++ 
 
-Last project: ERA programming language compiler (C#)
+Last project: AlHero mobile game (C#)
